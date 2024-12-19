@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: using an undefined value in a computation. The `bug.hs` file contains the erroneous code, which attempts to add 5 to an undefined value. This results in a runtime error because the program cannot determine a value for the undefined variable. The `bugSolution.hs` file provides a corrected version.
